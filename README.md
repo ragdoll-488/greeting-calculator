@@ -1,2 +1,2 @@
 # greeting-calculator
-Single Page Web App using React contain greeting and calculator components. 
+Single Page Web App using React containing greeting and calculator components.
